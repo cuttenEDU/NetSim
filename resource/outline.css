@@ -1,0 +1,25 @@
+.label{
+    -fx-font-size: 40px;
+}
+
+.Soutline.label .text {
+    -fx-fill: #ea9800;
+    -fx-stroke: #000000;
+    -fx-stroke-width: 0.8px;
+    -fx-stroke-type: outside;
+    -fx-font-weight: bolder;
+}
+.Ioutline.label .text {
+    -fx-fill: #FF0000;
+    -fx-stroke: #000000;
+    -fx-stroke-width: 0.8px;
+    -fx-stroke-type: outside;
+    -fx-font-weight: bolder;
+}
+.Routline.label .text {
+    -fx-fill: #008000;
+    -fx-stroke: #000000;
+    -fx-stroke-width: 0.8px;
+    -fx-stroke-type: outside;
+    -fx-font-weight: bolder;
+}

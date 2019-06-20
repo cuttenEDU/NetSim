@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.glassfish.jaxb:txw2:2.4.0-b180830.0438" type="repository">
+    <properties maven-id="org.glassfish.jaxb:txw2:2.4.0-b180830.0438" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/txw2-2.4.0-b180830.0438.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
